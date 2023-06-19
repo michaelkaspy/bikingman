@@ -1,7 +1,11 @@
 # bikingman
-<iframe
-src="https://www.chatbase.co/chatbot-iframe/AfUgjwkJdrO5eomyH-kWH"
-width="100%"
-height="700"
-frameborder="0"
-></iframe>
+<script>
+  window.chatbaseConfig = {
+    chatbotId: "AfUgjwkJdrO5eomyH-kWH",
+  }
+</script>
+<script
+  src="https://www.chatbase.co/embed.min.js"
+  id="AfUgjwkJdrO5eomyH-kWH"
+  defer>
+</script>
